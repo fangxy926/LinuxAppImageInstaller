@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=/usr/bin/siyuan
+Icon=/opt/siyuan/bin/siyuan.svg
+Name=siyuan
+Name[zh_CN]=siyuan
+Type=Application
+X-Deepin-Vendor=user-custom
